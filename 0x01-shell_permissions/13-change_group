@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 mkdir -m751 dir_codingschool
+=======
+chgrp holberton hello
+>>>>>>> 6db358ffabf7fa41e0b5ccaff35b74470238bc6f
