@@ -5,7 +5,7 @@ import json
 import requests
 
 
-def recurse(subreddit, word_list, after="", count=[]):
+def def count_words(subreddit, word_list):
     """count all words"""
 
     if after == "":
